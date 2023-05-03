@@ -1,0 +1,50 @@
+Ursache von Verkehrunfällen | Häufbar
+Güteklasse von Hotels | Nicht Häufbar
+Religionszugehörigkeit | Häufbar
+Sparguthaben von Studenten | Nicht Häufbar
+Körpergröße von Studenten | Nicht Häufbar
+Matrikel-Nummer von Studenten | Häufbar
+Kinderzahl von Personen | Nicht Häufbar
+Geburtsdatum | Nicht Häufbar
+Umsatz eines Unternehmens | Nicht Häufbar
+Anzahl der Geschwister | Häufbar
+Größe des Gehalts | Häufbar
+Anzahl der Arbeitsstunden pro Woche | Häufbar
+Anzahl der Reisen pro Jahr | Häufbar
+Anzahl der Handys, die eine Person besitzt | Häufbar
+Anzahl der Fernseher pro Haushalt | Häufbar
+Größe des Kleiderschranks | Häufbar
+Anzahl der gesprochenen Sprachen | Häufbar
+Anzahl der Kinder pro Familie | Häufbar
+Anzahl der Einkäufe pro Woche | Häufbar
+Anzahl der Mitglieder in einem Fitnessstudio | Häufbar
+Größe des Social-Media-Follower-Counts | Häufbar
+Anzahl der getragenen Schmuckstücke | Häufbar
+Anzahl der Freunde auf Social-Media-Plattformen | Häufbar
+Anzahl der Wohnungen, die eine Person in ihrem Leben hatte | Häufbar
+Anzahl der gesehenen Filme pro Monat | Häufbar
+Anzahl der besuchten Konzerte pro Jahr | Häufbar
+Anzahl der gelesenen Bücher pro Monat | Häufbar
+Anzahl der besuchten Museen pro Jahr | Häufbar
+Anzahl der Haushaltsmitglieder, die Sport treiben | Häufbar
+Haarfarbe | Nicht Häufbar
+Augenfarbe | Nicht Häufbar
+Blutgruppe | Nicht Häufbar
+Fingerabdrücke | Nicht Häufbar
+DNA-Struktur | Nicht Häufbar
+Geburtsdatum | Nicht Häufbar
+Geburtsort | Nicht Häufbar
+Sozialversicherungsnummer | Nicht Häufbar
+Körpertemperatur | Nicht Häufbar
+Körpergröße (exakt) | Nicht Häufbar
+Gewicht (exakt) | Nicht Häufbar
+Gesichtsform | Nicht Häufbar
+Hautfarbe | Nicht Häufbar
+Sprachstil | Nicht Häufbar
+Persönlichkeitstyp | Nicht Häufbar
+Charaktereigenschaften | Nicht Häufbar
+Intelligenzquotient (IQ) | Nicht Häufbar
+Gehirnstruktur | Nicht Häufbar
+Körperbau | Nicht Häufbar
+Augen- und Ohrenschärfe | Nicht Häufbar
+Fähigkeiten und Talente | Nicht Häufbar

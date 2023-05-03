@@ -1,0 +1,38 @@
+Geschlecht (männlich/weiblich) | Nominalskala
+Nationalität | Nominalskala
+Augenfarbe | Nominalskala
+Haarfarbe | Nominalskala
+Blutgruppe | Nominalskala
+Parteizugehörigkeit | Nominalskala
+Beruf | Nominalskala
+Wohnort | Nominalskala
+Religion | Nominalskala
+Bildungsabschluss (z.B. Hauptschulabschluss, Realschulabschluss, Abitur) | Ordinalskala
+Platzierung in einem Wettbewerb (z.B. erster Platz, zweiter Platz, dritter Platz) | Ordinalskala
+Militärrang (z.B. Soldat, Unteroffizier, Offizier) | Ordinalskala
+Meinung zu einem Thema (z.B. Stimme zu, neutral, stimme nicht zu) | Ordinalskala
+Schulnoten (z.B. sehr gut, gut, befriedigend, ausreichend, mangelhaft, ungenügend) | Ordinalskala
+Medaillen bei den Olympischen Spielen (z.B. Gold, Silber, Bronze) | Ordinalskala
+Einkommensgruppen (z.B. niedriges Einkommen, mittleres Einkommen, hohes Einkommen) | Ordinalskala
+Platzierung in einem Schulwettbewerb (z.B. erster Platz, zweiter Platz, dritter Platz) | Ordinalskala
+Altersgruppen (z.B. 18-24 Jahre, 25-34 Jahre, 35-44 Jahre, etc.) | Ordinalskala
+Bewertung von Filmen, Büchern oder Restaurants auf einer Skala von 1 bis 5 | Ordinalskala
+Temperatur in Grad Celsius oder Fahrenheit | Intervallskala
+IQ-Wert | Intervallskala
+Jahrestemperaturabweichungen | Intervallskala
+Musiktonhöhen | Intervallskala
+Bewertung von Filmen auf einer Skala von 1 bis 10 | Intervallskala
+Datum (in Tagen seit einem bestimmten Zeitpunkt) | Intervallskala
+Zeit (in Sekunden, Minuten oder Stunden) | Intervallskala
+elektrische Spannung | Intervallskala
+Lautstärke in Dezibel (dB) | Intervallskala
+Noten in einem Test, der nach einem bestimmten Schlüssel bewertet wird. | Intervallskala
+Gewicht einer Person in Kilogramm oder Pfund | Verhältnisskala
+Körpergröße einer Person in Metern oder Fuß | Verhältnisskala
+Anzahl der Kinder in einer Familie | Verhältnisskala
+Anzahl der Stunden, die für einen Task benötigt werden | Verhältnisskala
+Geschwindigkeit in km/h oder mph | Verhältnisskala
+Anzahl der Besucher einer Website | Verhältnisskala
+Einkommen in Euro oder Dollar pro Jahr | Verhältnisskala
+Alter in Jahren | Verhältnisskala
+Länge oder Breite eines Objekts in Zentimetern oder Zoll. | Verhältnisskala

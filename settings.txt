@@ -1,0 +1,10 @@
+typ1
+typ2
+typ3
+typ4
+typ5
+typ6
+typ7
+typ8
+typ9
+typ10

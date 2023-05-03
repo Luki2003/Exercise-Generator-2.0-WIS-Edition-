@@ -1,0 +1,50 @@
+Todesfälle durch Lungenkrebs in Niedersachsen | Ereignismasse
+Naturwissenschaftliche Bücher eines Studierenden der FHDW | Bestandsmasse
+Papierverbrauch in einer Druckerei | Ereignismasse
+Fahrradunfälle mit Beteiligung von Kindern unter 6 Jahren | Ereignismasse
+Besucher eines Bundesligafußballspiels | Bestandsmasse
+Anzahl der verkauften iPhones im Jahr 2022 in Deutschland | Bestandsmasse
+Gewicht aller Elefanten in einem Zoo | Bestandsmasse
+Anzahl der Anmeldungen zum Berlin Marathon im Jahr 2023 | Ereignismasse
+Anzahl der Studierenden an der Universität zu Köln im Sommersemester 2023 | Ereignismasse
+Menge an produziertem Müll in einer Stadt pro Jahr | Ereignismasse
+Anzahl der verkauften Kinokarten für einen bestimmten Film in der ersten Woche | Ereignismasse
+Gewicht aller Passagiere auf einem Flug von Frankfurt nach New York | Bestandsmasse
+Anzahl der Erstwähler bei einer Bundestagswahl | Bestandsmasse
+Verbrauch von Wasser in einem Schwimmbad an einem bestimmten Tag | Ereignismasse
+Anzahl der Bewohner einer bestimmten Straße in einer Stadt | Bestandsmasse
+Anzahl der Touristen in einem Freizeitpark an einem bestimmten Tag | Ereignismasse
+Anzahl der Beschäftigten in einem Unternehmen | Bestandsmasse
+Anzahl der Teilnehmer an einem Sportturnier | Ereignismasse
+Verbrauch an Benzin pro Monat in einem Taxiunternehmen | Bestandsmasse
+Anzahl der Studierenden, die im Jahr 2023 ein Bachelorstudium in Betriebswirtschaftslehre beginnen möchten | Ereignismasse
+Anzahl der Produkte in einem Online-Shop | Bestandsmasse
+Gewicht aller Äpfel in einem Obstgarten | Bestandsmasse
+Anzahl der Besucher in einem Museum während einer Ausstellung | Ereignismasse
+Anzahl der Schulen in einer Stadt | Bestandsmasse
+Anzahl der abgeschlossenen Ausbildungsverträge in einem Jahr in einem bestimmten Beruf | Bestandsmasse
+Anzahl der Menschen, die ein bestimmtes soziales Netzwerk nutzen | Bestandsmasse
+Anzahl der Kunden in einem Supermarkt an einem bestimmten Tag | Ereignismasse
+Anzahl der Tickets für ein Konzert einer bestimmten Band | Bestandsmasse
+Verbrauch an Strom in einem Bürogebäude im Jahr | Ereignismasse
+Anzahl der Personen, die in einer bestimmten Stadt geboren wurden | Bestandsmasse
+Anzahl der verkauften Flaschen einer bestimmten Biersorte in einer Bar | Bestandsmasse
+Gewicht aller Schüler in einer Schulklasse | Ereignismasse
+Anzahl der Personen, die in einer bestimmten Stadt einen Führerschein besitzen | Bestandsmasse
+Verbrauch an Strom in einem Haushalt im Monat | Bestandsmasse
+Anzahl der verkauften Karten für eine Theateraufführung | Ereignismasse
+Anzahl der Bewohner einer Stadt | Bestandsmasse
+Anzahl der Bücher in einer Bibliothek | Bestandsmasse
+Anzahl der produzierten Autos in einem Werk in einem Jahr | Ereignismasse
+Anzahl der Passagiere in einem Bus auf einer bestimmten Strecke | Ereignismasse
+Anzahl der Besucher einer Ausstellung in einem Kunstzentrum | Ereignismasse
+Anzahl der Teilnehmer eines Online-Kurses | Ereignismasse
+Anzahl der Haustiere in einem Tierheim | Bestandsmasse
+Anzahl der Fahrräder in einer Fahrradwerkstatt | Bestandsmasse
+Anzahl der verkauften Produkte in einem Online-Shop an einem bestimmten Tag | Ereignismasse
+Anzahl der Bewohner eines Altenheims | Bestandsmasse
+Anzahl der Studenten, die im Jahr 2023 einen Masterabschluss in Informatik machen wollen | Ereignismasse
+Anzahl der Passagiere auf einem Kreuzfahrtschiff | Ereignismasse
+Anzahl der verkauften Tickets für einen Kinofilm in einem bestimmten Zeitraum | Ereignismasse
+Anzahl der Besucher eines Zoos an einem bestimmten Tag | Ereignismasse
+Verbrauch an Gas in einem Haushalt im Jahr | Ereignismasse

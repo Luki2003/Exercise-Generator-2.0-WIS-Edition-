@@ -1,0 +1,50 @@
+Es soll die Todesursache von Rauchern ermittelt werden. | Raucher, Todesursache, Krebs
+Es soll der Alkoholgehalt einer Biersorte untersucht werden. | Biersorte, Alkoholgehalt, 4%
+Es soll der Bremsweg von Motorrädern festgestellt werden. | Motorräder, Bremsweg, 10m
+Es soll der Energiegehalt von aus Marokko angelieferten Orangen untersucht werden. | Orangen, Energiegehalt, 50 kcal / 100g
+Es soll die Korrelation zwischen Körpergröße und Schuhgröße bei Schülern ermittelt werden. | Schüler, Korrelation zwischen Körpergröße und Schuhgröße, Positiv
+Es soll die Häufigkeit von Unfällen auf bestimmten Straßenabschnitten untersucht werden. | Straßenabschnitt, Häufigkeit von Unfällen, 10 Unfälle pro Jahr
+Es soll der Einfluss von Musik auf die Konzentrationsfähigkeit von Studierenden untersucht werden. | Studierende, Konzentrationsfähigkeit, gesteigerte Konzentrationsfähigkeit durch Musik
+Es soll die Auswirkungen von unterschiedlichen Düngemitteln auf das Wachstum von Tomatenpflanzen untersucht werden. | Tomatenpflanzen, Wachstum, unterschiedliches Wachstum je nach Düngemittel
+Es soll die Effektivität von verschiedenen Schmerzmitteln auf die Linderung von Kopfschmerzen untersucht werden. | Personen mit Kopfschmerzen, Schmerzlinderung, unterschiedliche Wirksamkeit der verschiedenen Schmerzmittel
+Es soll die Auswirkungen von unterschiedlichen Trainingsmethoden auf die Leistungsfähigkeit von Athleten untersucht werden. | Athleten, Leistungsfähigkeit, unterschiedliche Leistungssteigerung durch verschiedene Trainingsmethoden
+Es soll der Einfluss von sozialen Medien auf das Selbstbild von Jugendlichen untersucht werden. | Jugendliche, Selbstbild, beeinflusstes Selbstbild durch soziale Medien
+Es soll die Präferenz von Käsesorten bei Verbrauchern ermittelt werden. | Verbraucher, Präferenz von Käsesorten, bevorzugte Käsesorte je nach Verbraucher
+Es soll die Auswirkungen von Umweltverschmutzung auf die Gesundheit von Fischen untersucht werden. | Fische, Gesundheit, beeinträchtigte Gesundheit durch Umweltverschmutzung
+Es soll der Einfluss von Lichtverhältnissen auf das Wohlbefinden von Büroangestellten untersucht werden. | Büroangestellte, Wohlbefinden, gesteigertes Wohlbefinden durch bestimmte Lichtverhältnisse
+Es soll die Auswirkungen von verschiedenen Verkaufsstrategien auf den Umsatz eines Unternehmens untersucht werden. | Unternehmen, Umsatz, unterschiedlicher Umsatz durch verschiedene Verkaufsstrategien
+Es soll die Korrelation zwischen Schulnoten und Berufswahl bei Absolventen untersucht werden. | Absolventen, Berufswahl, Zusammenhang zwischen Schulnoten und Berufswahl.
+Es soll die Wahrnehmung von Sicherheit auf öffentlichen Plätzen bei Passanten ermittelt werden. | Passanten, Wahrnehmung von Sicherheit, unterschiedliche Wahrnehmung von Sicherheit auf öffentlichen Plätzen
+Es soll der Einfluss von Ernährung auf die Schlafqualität untersucht werden. | Menschen, Schlafqualität, verbesserte oder verschlechterte Schlafqualität durch Ernährung
+Es soll die Auswirkungen von unterschiedlichen Wassertemperaturen auf das Verhalten von Fischen untersucht werden. | Fische, Verhalten, unterschiedliches Verhalten je nach Wassertemperatur
+Es soll die Präferenz von Musikgenres bei verschiedenen Altersgruppen ermittelt werden. | verschiedene Altersgruppen, Präferenz von Musikgenres, unterschiedliche Präferenz von Musikgenres je nach Alter
+Es soll die Auswirkungen von Koffein auf die kognitive Leistungsfähigkeit untersucht werden. | Personen, kognitive Leistungsfähigkeit, gesteigerte oder verringerte kognitive Leistungsfähigkeit durch Koffein
+Es soll die Korrelation zwischen Arbeitszufriedenheit und Mitarbeiterfluktuation in Unternehmen ermittelt werden. | Unternehmen, Mitarbeiterfluktuation, Korrelation zwischen Arbeitszufriedenheit und Mitarbeiterfluktuation
+Es soll der Einfluss von Farben auf das Kaufverhalten von Kunden untersucht werden. | Kunden, Kaufverhalten, unterschiedliches Kaufverhalten je nach Farbe
+Es soll die Auswirkungen von Stress auf das Immunsystem untersucht werden. | Menschen, Immunsystem, beeinträchtigtes Immunsystem durch Stress
+Es soll die Präferenz von Schreibwaren bei Schülern ermittelt werden. | Schüler, Präferenz von Schreibwaren, bevorzugte Schreibwaren je nach Schüler
+Es soll der Einfluss von Luftfeuchtigkeit auf das Wohlbefinden von Bewohnern in Wohnungen untersucht werden. | Bewohner von Wohnungen, Wohlbefinden, gesteigertes oder verringertes Wohlbefinden durch Luftfeuchtigkeit
+Es soll die Auswirkungen von Schulungen auf die Produktivität von Mitarbeitern in Unternehmen untersucht werden. | Mitarbeiter in Unternehmen, Produktivität, gesteigerte oder verringerte Produktivität durch Schulungen
+Es soll die Korrelation zwischen Schlafverhalten und Stimmung bei Probanden ermittelt werden. | Probanden, Stimmung, Korrelation zwischen Schlafverhalten und Stimmung
+Es soll der Einfluss von Düften auf die Entspannung bei Menschen untersucht werden. | Menschen, Entspannung, gesteigerte Entspannung durch verschiedene Düfte
+Es soll die Auswirkungen von Musik auf die Konzentration von Schülern in Klassenräumen untersucht werden. | Schüler, Konzentration, gesteigerte oder verringerte Konzentration durch Musik im Klassenraum
+Es soll die Präferenz von Autofarben bei Autokäufern ermittelt werden. | Autokäufer, Präferenz von Autofarben, bevorzugte Autofarbe je nach Autokäufer
+Es soll der Einfluss von Beleuchtung auf das Essverhalten in Restaurants untersucht werden. | Restaurantbesucher, Essverhalten, beeinflusstes Essverhalten durch Beleuchtung im Restaurant
+Es soll die Auswirkungen von Bewegung auf die kognitive Leistungsfähigkeit bei älteren Menschen untersucht werden. | ältere Menschen, kognitive Leistungsfähigkeit, Auswirkungen von Bewegung
+Es soll die Korrelation zwischen Bildungsniveau und politischer Einstellung bei Wählern ermittelt werden. | Wähler, politische Einstellung, Korrelation mit Bildungsniveau
+Es soll der Einfluss von Raumtemperatur auf die Produktivität von Büroangestellten untersucht werden. | Büroangestellte, Produktivität, Einfluss von Raumtemperatur
+Es soll die Auswirkungen von verschiedenen Trainingsprogrammen auf die körperliche Leistungsfähigkeit von Patienten untersucht werden. | Patienten, körperliche Leistungsfähigkeit, Auswirkungen von verschiedenen Trainingsprogrammen
+Es soll die Präferenz von Nudelsaucen bei Verbrauchern ermittelt werden. | Verbraucher, Präferenz von Nudelsaucen, Ermittlung der Präferenz
+Es soll die Auswirkungen von verschiedenen Arbeitszeitmodellen auf die Work-Life-Balance von Arbeitnehmern untersucht werden. | Arbeitnehmer, Work-Life-Balance, Auswirkungen von verschiedenen Arbeitszeitmodellen
+Es soll die Korrelation zwischen dem Konsum von Fast Food und Adipositas bei Jugendlichen ermittelt werden. | Jugendliche, Adipositas, Korrelation mit Konsum von Fast Food
+Es soll der Einfluss von Raumakustik auf das Wohlbefinden von Patienten in Krankenhäusern untersucht werden. | Patienten in Krankenhäusern, Wohlbefinden, Einfluss von Raumakustik
+Es soll die Auswirkungen von Lärm auf die Konzentrationsfähigkeit von Schülern in Klassenräumen untersucht werden. | Schüler, Konzentrationsfähigkeit, Auswirkungen von Lärm in Klassenräumen
+Es soll die Präferenz von Obstsorten bei Verbrauchern ermittelt werden. | Verbraucher, Präferenz von Obstsorten, Ermittlung der Präferenz
+Es soll der Einfluss von Temperatur auf die Haltbarkeit von Lebensmitteln untersucht werden. | Lebensmittel, Haltbarkeit, Einfluss von Temperatur
+Es soll die Auswirkungen von Bildschirmarbeit auf die Augengesundheit untersucht werden. | Büroangestellte, Augengesundheit, Auswirkungen von Bildschirmarbeit
+Es soll die Korrelation zwischen Schulbildung und Einkommen bei Arbeitnehmern ermittelt werden. | Arbeitnehmer, Einkommen, Korrelation mit Schulbildung
+Es soll der Einfluss von Pflanzen auf das Raumklima in Büros untersucht werden. | Büros, Raumklima, Einfluss von Pflanzen
+Es soll die Auswirkungen von Rauchverboten auf die Gesundheit von Passivrauchern untersucht werden. | Passivraucher, Gesundheit, Auswirkungen von Rauchverboten
+Es soll die Präferenz von Kaffeesorten bei Verbrauchern ermittelt werden. | Verbraucher, Präferenz von Kaffeesorten, Ermittlung der Präferenz
+Es soll der Einfluss von Raumbeleuchtung auf die Lesbarkeit von Texten untersucht werden. | Leser, Lesbarkeit von Texten, Einfluss von Raumbeleuchtung
+Es soll die Auswirkungen von verschiedenen Methoden zur Stressbewältigung auf das Wohlbefinden von Studierenden untersucht werden. | Studierende, Wohlbefinden, Auswirkungen von verschiedenen Methoden zur Stressbewältigung

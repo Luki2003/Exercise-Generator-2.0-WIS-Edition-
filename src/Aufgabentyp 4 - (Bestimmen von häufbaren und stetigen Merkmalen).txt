@@ -1,0 +1,50 @@
+Anzahl der Orangen in einer Kiste | Diskret
+Einkommen von Beamten in der Besoldungsgruppe A5 | Diskret
+Temperatur in einem Gefrierschrank | Stetig
+Anzahl der Fahrräder auf einem Parkplatz | Diskret
+Elektrische Spannung an einer Stromquelle (in V) | Stetig
+Anzahl der Geschwister | Diskret
+Anzahl der Kinder | Diskret
+Anzahl der Haustiere | Diskret
+Anzahl der Kreditkarten | Diskret
+Anzahl der Autos | Diskret
+Anzahl der Hobbys | Diskret
+Anzahl der Sprachen, die eine Person spricht | Diskret
+Anzahl der Freunde | Diskret
+Anzahl der Kurse, die eine Person pro Semester belegt | Diskret
+Anzahl der Kinobesuche pro Monat | Diskret
+Anzahl der Flüge pro Jahr | Diskret
+Anzahl der besuchten Länder | Diskret
+Anzahl der Mitglieder in einem Verein | Diskret
+Anzahl der Tattoos | Diskret
+Anzahl der Social-Media-Konten | Diskret
+Anzahl der Arbeitsstellen, die eine Person bisher hatte | Diskret
+Anzahl der besuchten Konzerte pro Jahr | Diskret
+Anzahl der gelesenen Bücher pro Monat | Diskret
+Anzahl der Haustiere pro Haushalt | Diskret
+Anzahl der Familienmitglieder in einem Haushalt | Diskret
+Körpergröße | Stetig
+Gewicht | Stetig
+Alter | Stetig
+Einkommen | Stetig
+Ausgaben pro Monat | Stetig
+Schulden | Stetig
+Anzahl der Stunden, die eine Person pro Woche arbeitet | Stetig
+Anzahl der Stunden, die eine Person pro Woche schläft | Stetig
+Länge eines Objekts | Stetig
+Breite eines Objekts | Stetig
+Höhe eines Objekts | Stetig
+Temperatur | Stetig
+Zeit, die eine Person zum Absolvieren einer Aufgabe benötigt | Stetig
+Geschwindigkeit | Stetig
+Entfernung zwischen zwei Objekten | Stetig
+Anzahl der Schritte, die eine Person pro Tag geht | Stetig
+Anzahl der Kalorien, die eine Person pro Tag verbrennt | Stetig
+Anzahl der Stunden, die eine Person pro Woche trainiert | Stetig
+Anzahl der Meilen, die eine Person pro Woche läuft | Stetig
+Anzahl der Stunden, die eine Person pro Woche Fahrrad fährt | Stetig
+Anzahl der Stunden, die eine Person pro Woche fernsieht | Stetig
+Anzahl der Stunden, die eine Person pro Woche in sozialen Medien verbringt | Stetig
+Blutdruck | Stetig
+Cholesterinwerte | Stetig
+IQ-Testergesbnis | Stetig

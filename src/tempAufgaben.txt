@@ -1,0 +1,38 @@
+Geschlecht (männlich/weiblich)
+Nationalität
+Augenfarbe
+Haarfarbe
+Blutgruppe
+Parteizugehörigkeit
+Beruf
+Wohnort
+Religion
+Bildungsabschluss (z.B. Hauptschulabschluss, Realschulabschluss, Abitur)
+Platzierung in einem Wettbewerb (z.B. erster Platz, zweiter Platz, dritter Platz)
+Militärrang (z.B. Soldat, Unteroffizier, Offizier)
+Meinung zu einem Thema (z.B. Stimme zu, neutral, stimme nicht zu)
+Schulnoten (z.B. sehr gut, gut, befriedigend, ausreichend, mangelhaft, ungenügend)
+Medaillen bei den Olympischen Spielen (z.B. Gold, Silber, Bronze)
+Einkommensgruppen (z.B. niedriges Einkommen, mittleres Einkommen, hohes Einkommen)
+Platzierung in einem Schulwettbewerb (z.B. erster Platz, zweiter Platz, dritter Platz)
+Altersgruppen (z.B. 18-24 Jahre, 25-34 Jahre, 35-44 Jahre, etc.)
+Bewertung von Filmen, Büchern oder Restaurants auf einer Skala von 1 bis 5
+Temperatur in Grad Celsius oder Fahrenheit
+IQ-Wert
+Jahrestemperaturabweichungen
+Musiktonhöhen
+Bewertung von Filmen auf einer Skala von 1 bis 10
+Datum (in Tagen seit einem bestimmten Zeitpunkt)
+Zeit (in Sekunden, Minuten oder Stunden)
+elektrische Spannung
+Lautstärke in Dezibel (dB)
+Noten in einem Test, der nach einem bestimmten Schlüssel bewertet wird.
+Gewicht einer Person in Kilogramm oder Pfund
+Körpergröße einer Person in Metern oder Fuß
+Anzahl der Kinder in einer Familie
+Anzahl der Stunden, die für einen Task benötigt werden
+Geschwindigkeit in km/h oder mph
+Anzahl der Besucher einer Website
+Einkommen in Euro oder Dollar pro Jahr
+Alter in Jahren
+Länge oder Breite eines Objekts in Zentimetern oder Zoll.
