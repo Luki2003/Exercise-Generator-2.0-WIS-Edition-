@@ -8,3 +8,6 @@ typ7
 typ8
 typ9
 typ10
+typ11
+typ12
+typ13
